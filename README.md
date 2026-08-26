@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5b4d5a0b-55e5-4540-913a-3f6638879a04.jpeg?v=1735028204)](https://www.boot.dev/certificates/5b4d5a0b-55e5-4540-913a-3f6638879a04)
 <!--
 **BotaAndrei-public/BotaAndrei-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
