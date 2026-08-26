@@ -13,7 +13,7 @@ I’m hands-on with technologies like **React, Next.js, Node.js, and Docker/Kube
 
 ---
 
-### 🐧 Backend & Linux Certifications (Boot.dev)
+### Certifications (Boot.dev)
 
 | Course / Technology | Official Certificate | Graduation Date |
 | :--- | :---: | :---: |
@@ -24,7 +24,7 @@ I’m hands-on with technologies like **React, Next.js, Node.js, and Docker/Kube
 
 ---
 
-### 💻 Frontend & Web Certifications (Master.dev)
+### Certifications (Master.dev)
 
 | Completed Course | Credential ID | Diploma |
 | :--- | :--- | :---: |
