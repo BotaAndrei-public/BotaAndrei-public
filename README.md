@@ -29,6 +29,7 @@ I’m hands-on with technologies like **React, Next.js, Node.js, and Docker/Kube
 | Completed Course | Credential ID | Diploma |
 | :--- | :--- | :---: |
 | **Web Performance Fundamentals, v2** | `86efaaa027-aBCiHAEVQE` | [Verify 📄](https://static.frontendmasters.com/ud/c/86efaaa027/aBCiHAEVQE/web-perf-v2-masterdev.pdf) |
+| **Professional CSS: Build a Website from Scratch** | `86efaaa027-ZHLAbIxMEu` | [Verify 📄](https://static.frontendmasters.com/ud/c/86efaaa027/ZHLAbIxMEu/pro-css-masterdev.pdf) |
 
 ---
 
